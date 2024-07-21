@@ -2,6 +2,6 @@
 
 Click the link below to explore the landing page!
 
-💻 #WebDevelopment #Internship #HTML #CSS #Codsoft
+💻 #WebDevelopment #Internship #HTML #CSS #Prodigy Infotech
 
 Website Link: https://github.com/sauravraj1412/PRODIGY-TASK-01.git
