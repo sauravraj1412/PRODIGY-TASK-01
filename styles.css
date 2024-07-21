@@ -1,0 +1,113 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar-container{
+    height:100px;
+    width:100%;
+    background-color:rgba(1, 9, 27, 1);
+}
+#heading{
+    font-size: 25px;
+}
+
+#heading{
+    display: inline-block;
+    margin-right: 450px;
+    color:white;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+.navbar{
+    display: inline-block;
+    font-size: 25px;
+    color: white;
+    padding-left: 50px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
+#container{
+    height:650px;
+    width:100%;
+    background-image: url("https://e0.pxfuel.com/wallpapers/613/646/desktop-wallpaper-travel-theme-designs-for-travel-travel-agency.jpg");
+    background-size: cover;
+}
+#container-content{
+    height:650px;
+    width:50%;
+    background-color:rgba(1, 9, 27, 1);
+    opacity: 85%;
+}
+#heading1{
+    color:white;
+    font-size: 85px;
+    display: inline-block;
+    padding-top: 40px;
+    padding-left: 150px;
+}
+h2{
+    color:mediumseagreen;
+    padding-left: 150px;
+    padding-top: 15px;
+    font-size: 30px;
+}
+#offers{
+    color:red;
+    font-size: 65px;
+    padding-left: 140px;
+    padding-top: 15px;
+}
+#coupon{
+    color:white;
+    font-size: 25px;
+    padding-left: 150px;
+    padding-top: 10px;
+}
+input{
+    height: 40px;
+    width: 350px;
+    font-size: 23px;
+    color: #1c1708;
+    outline: none;
+  
+}
+#input-type{
+    padding-left: 150px;
+    padding-top: 15px;
+    display: inline-block;
+}
+button{
+    height: 48px;
+    width:85px;
+    font-size: 30px;
+    color: white;
+    background-color: orangered;
+    display: inline-block;
+    border:1px solid orangered;
+}
+#intro{
+    color: white;
+    font-size: 22px;
+    padding-left: 150px;
+    padding-top: 30px;
+    line-height: 28px;
+}
+.footer-container {
+    height:150px;
+    width:100%;
+    background-color:#bbbbbb;
+    opacity:70%;
+    
+}
+.footer-info p {
+    color:black;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
